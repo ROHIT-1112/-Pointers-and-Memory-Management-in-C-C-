@@ -6,4 +6,4 @@
 4.) The Big 3
 5.) The Big 5
 6.) Smart Pointers
-7.7.) Special Pointers and Debugging
+7.) Special Pointers and Debugging
