@@ -1,4 +1,4 @@
-# -Pointers-and-Memory-Management-in-C/C++
+# Pointers-and-Memory-Management-in-C/C++
 
 1.) Introduction to Pointers and Dynamic Memory in C/C++
 2.) Syntax of Pointers & Memory Management
